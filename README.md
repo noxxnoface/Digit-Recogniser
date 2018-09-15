@@ -1,7 +1,7 @@
-#Digit Recognition
+Digit Recognition
  Recognizing digits using keras with tensorflow backend producing test accuracy of 98% on online platform Kaggle
 
- ##The varying accuracies corresponding to epochs and batch size can be observed below.
+ The varying accuracies corresponding to epochs and batch size can be observed below.
 
  #---------------------
  model.fit(X_train, y_train, epochs = 1, batch_size = 1,verbose = 1)
