@@ -9,6 +9,7 @@
  Epoch 1/1
  
  42000/42000 [==============================] - 1230s 29ms/step - loss: 0.1537 - acc: 0.9542
+ 
  #---------------------
  model.fit(X_train, y_train, epochs = 3, batch_size = 1000,verbose = 1)
  Epoch 1/3
